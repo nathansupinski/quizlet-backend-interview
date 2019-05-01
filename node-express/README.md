@@ -14,10 +14,10 @@ or
 yarn install
 ```
 
-2. Start node-mon
+2. Start the app server!
 
 ```
-npx nodemon
+npm start
 ```
 
 3. [Open your browser](http://localhost:3000)
