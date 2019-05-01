@@ -9,6 +9,10 @@ It's as easy as...
 ```
 npm install
 ```
+or
+```
+yarn install
+```
 
 2. Start node-mon
 
