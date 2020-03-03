@@ -9,7 +9,7 @@ You're welcome to use the framework, language, and build process you're most fam
 ## Your options:
 
 1. Start with the provide subfolder `node-express`. This is a starting example that you can use and build on top of. [More details on running this example here](node-express/).
-2. Set up your own environment (Ruby, Python, Java... whatever you desire!).  Please note that if your chosen framework abstracts too much of the problem away, particularly around CRUD operations, we may ask you to avoid using those pieces of the framework or remove it entirely.  
+2. Set up your own environment (Ruby, Python, Java... whatever you desire!).  Please note that if your chosen framework abstracts too much of the problem away, we might ask you for a finer-grained implementation. A microframework like Express, Flask, or Sinatra is more appropriate than a “batteries-included” framework like Ruby on Rails.
 
 **Bottom line**: We want you to be successful, so please pick the option that you feel most at-ease with.
 
